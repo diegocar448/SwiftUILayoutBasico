@@ -3,6 +3,7 @@
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -55,6 +56,16 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cJT-dN-rJA">
+                                <rect key="frame" x="25" y="432.66666666666669" width="343" height="40"/>
+                                <color key="backgroundColor" name="AccentColor"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="23"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Cadastre-se">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -67,12 +78,15 @@
                             <constraint firstItem="7Uo-BS-AWe" firstAttribute="leading" secondItem="jWP-9d-9bk" secondAttribute="leading" id="MWh-xd-gVP"/>
                             <constraint firstItem="iZf-05-W0s" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="QcJ-Cm-7Jy"/>
                             <constraint firstItem="xBa-yW-MqQ" firstAttribute="top" secondItem="mWS-BS-uZL" secondAttribute="bottom" constant="15" id="Rq6-B4-VRA"/>
+                            <constraint firstItem="cJT-dN-rJA" firstAttribute="trailing" secondItem="jWP-9d-9bk" secondAttribute="trailing" id="TRd-7e-dD6"/>
                             <constraint firstItem="7Uo-BS-AWe" firstAttribute="top" secondItem="sch-oU-Tda" secondAttribute="bottom" constant="15" id="WbV-cb-NSe"/>
                             <constraint firstItem="Gv7-nT-J04" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="XnK-nb-bv5"/>
+                            <constraint firstItem="cJT-dN-rJA" firstAttribute="top" secondItem="7Uo-BS-AWe" secondAttribute="bottom" constant="50" id="YD2-z1-Mfe"/>
                             <constraint firstItem="mWS-BS-uZL" firstAttribute="top" secondItem="jWP-9d-9bk" secondAttribute="bottom" constant="15" id="cuI-4S-Ohr"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="jWP-9d-9bk" secondAttribute="trailing" constant="25" id="dD9-rE-9eh"/>
                             <constraint firstItem="sch-oU-Tda" firstAttribute="top" secondItem="xBa-yW-MqQ" secondAttribute="bottom" constant="15" id="gVx-SS-JK1"/>
                             <constraint firstItem="jWP-9d-9bk" firstAttribute="top" secondItem="Gv7-nT-J04" secondAttribute="bottom" constant="15" id="t3q-D4-ndz"/>
+                            <constraint firstItem="cJT-dN-rJA" firstAttribute="leading" secondItem="jWP-9d-9bk" secondAttribute="leading" id="tO5-EH-qcR"/>
                             <constraint firstItem="jWP-9d-9bk" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="25" id="thE-0A-Krt"/>
                             <constraint firstItem="xBa-yW-MqQ" firstAttribute="trailing" secondItem="jWP-9d-9bk" secondAttribute="trailing" id="u0f-Vv-nvz"/>
                             <constraint firstItem="sch-oU-Tda" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="25" id="x5v-rU-a1Q"/>
@@ -85,6 +99,9 @@
         </scene>
     </scenes>
     <resources>
+        <namedColor name="AccentColor">
+            <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
