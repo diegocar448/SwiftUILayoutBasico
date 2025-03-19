@@ -7,75 +7,75 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		F0A800022D88AA3900A7708A /* PBXContainerItemProxy */ = {
+		F07086902D8B47BF00A2AB61 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F0A8FFE32D88AA3700A7708A /* Project object */;
+			containerPortal = F07086712D8B47BC00A2AB61 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F0A8FFEA2D88AA3700A7708A;
-			remoteInfo = PrimeiraTelaCadastroCurso;
+			remoteGlobalIDString = F07086782D8B47BD00A2AB61;
+			remoteInfo = ProgressView;
 		};
-		F0A8000C2D88AA3900A7708A /* PBXContainerItemProxy */ = {
+		F070869A2D8B47BF00A2AB61 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F0A8FFE32D88AA3700A7708A /* Project object */;
+			containerPortal = F07086712D8B47BC00A2AB61 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F0A8FFEA2D88AA3700A7708A;
-			remoteInfo = PrimeiraTelaCadastroCurso;
+			remoteGlobalIDString = F07086782D8B47BD00A2AB61;
+			remoteInfo = ProgressView;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F0A800012D88AA3900A7708A /* PrimeiraTelaCadastroCursoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PrimeiraTelaCadastroCursoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F0A8000B2D88AA3900A7708A /* PrimeiraTelaCadastroCursoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PrimeiraTelaCadastroCursoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F0A8FFEB2D88AA3700A7708A /* PrimeiraTelaCadastroCurso.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrimeiraTelaCadastroCurso.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F07086792D8B47BD00A2AB61 /* ProgressView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProgressView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F070868F2D8B47BF00A2AB61 /* ProgressViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProgressViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F07086992D8B47BF00A2AB61 /* ProgressViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProgressViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		F0A800132D88AA3900A7708A /* Exceptions for "PrimeiraTelaCadastroCurso" folder in "PrimeiraTelaCadastroCurso" target */ = {
+		F07086A12D8B47BF00A2AB61 /* Exceptions for "ProgressView" folder in "ProgressView" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = F0A8FFEA2D88AA3700A7708A /* PrimeiraTelaCadastroCurso */;
+			target = F07086782D8B47BD00A2AB61 /* ProgressView */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F0A800042D88AA3900A7708A /* PrimeiraTelaCadastroCursoTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PrimeiraTelaCadastroCursoTests;
-			sourceTree = "<group>";
-		};
-		F0A8000E2D88AA3900A7708A /* PrimeiraTelaCadastroCursoUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PrimeiraTelaCadastroCursoUITests;
-			sourceTree = "<group>";
-		};
-		F0A8FFED2D88AA3700A7708A /* PrimeiraTelaCadastroCurso */ = {
+		F070867B2D8B47BD00A2AB61 /* ProgressView */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				F0A800132D88AA3900A7708A /* Exceptions for "PrimeiraTelaCadastroCurso" folder in "PrimeiraTelaCadastroCurso" target */,
+				F07086A12D8B47BF00A2AB61 /* Exceptions for "ProgressView" folder in "ProgressView" target */,
 			);
-			path = PrimeiraTelaCadastroCurso;
+			path = ProgressView;
+			sourceTree = "<group>";
+		};
+		F07086922D8B47BF00A2AB61 /* ProgressViewTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ProgressViewTests;
+			sourceTree = "<group>";
+		};
+		F070869C2D8B47BF00A2AB61 /* ProgressViewUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ProgressViewUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F0A800082D88AA3900A7708A /* Frameworks */ = {
+		F07086762D8B47BD00A2AB61 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0A8FFE82D88AA3700A7708A /* Frameworks */ = {
+		F070868C2D8B47BF00A2AB61 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0A8FFFE2D88AA3900A7708A /* Frameworks */ = {
+		F07086962D8B47BF00A2AB61 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F0A8FFE22D88AA3700A7708A = {
+		F07086702D8B47BC00A2AB61 = {
 			isa = PBXGroup;
 			children = (
-				F0A8FFED2D88AA3700A7708A /* PrimeiraTelaCadastroCurso */,
-				F0A800042D88AA3900A7708A /* PrimeiraTelaCadastroCursoTests */,
-				F0A8000E2D88AA3900A7708A /* PrimeiraTelaCadastroCursoUITests */,
-				F0A8FFEC2D88AA3700A7708A /* Products */,
+				F070867B2D8B47BD00A2AB61 /* ProgressView */,
+				F07086922D8B47BF00A2AB61 /* ProgressViewTests */,
+				F070869C2D8B47BF00A2AB61 /* ProgressViewUITests */,
+				F070867A2D8B47BD00A2AB61 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F0A8FFEC2D88AA3700A7708A /* Products */ = {
+		F070867A2D8B47BD00A2AB61 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F0A8FFEB2D88AA3700A7708A /* PrimeiraTelaCadastroCurso.app */,
-				F0A800012D88AA3900A7708A /* PrimeiraTelaCadastroCursoTests.xctest */,
-				F0A8000B2D88AA3900A7708A /* PrimeiraTelaCadastroCursoUITests.xctest */,
+				F07086792D8B47BD00A2AB61 /* ProgressView.app */,
+				F070868F2D8B47BF00A2AB61 /* ProgressViewTests.xctest */,
+				F07086992D8B47BF00A2AB61 /* ProgressViewUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F0A800002D88AA3900A7708A /* PrimeiraTelaCadastroCursoTests */ = {
+		F07086782D8B47BD00A2AB61 /* ProgressView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F0A800192D88AA3900A7708A /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCursoTests" */;
+			buildConfigurationList = F07086A22D8B47BF00A2AB61 /* Build configuration list for PBXNativeTarget "ProgressView" */;
 			buildPhases = (
-				F0A8FFFD2D88AA3900A7708A /* Sources */,
-				F0A8FFFE2D88AA3900A7708A /* Frameworks */,
-				F0A8FFFF2D88AA3900A7708A /* Resources */,
+				F07086752D8B47BD00A2AB61 /* Sources */,
+				F07086762D8B47BD00A2AB61 /* Frameworks */,
+				F07086772D8B47BD00A2AB61 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F0A800032D88AA3900A7708A /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				F0A800042D88AA3900A7708A /* PrimeiraTelaCadastroCursoTests */,
+				F070867B2D8B47BD00A2AB61 /* ProgressView */,
 			);
-			name = PrimeiraTelaCadastroCursoTests;
+			name = ProgressView;
 			packageProductDependencies = (
 			);
-			productName = PrimeiraTelaCadastroCursoTests;
-			productReference = F0A800012D88AA3900A7708A /* PrimeiraTelaCadastroCursoTests.xctest */;
+			productName = ProgressView;
+			productReference = F07086792D8B47BD00A2AB61 /* ProgressView.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F070868E2D8B47BF00A2AB61 /* ProgressViewTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F07086A72D8B47BF00A2AB61 /* Build configuration list for PBXNativeTarget "ProgressViewTests" */;
+			buildPhases = (
+				F070868B2D8B47BF00A2AB61 /* Sources */,
+				F070868C2D8B47BF00A2AB61 /* Frameworks */,
+				F070868D2D8B47BF00A2AB61 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F07086912D8B47BF00A2AB61 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F07086922D8B47BF00A2AB61 /* ProgressViewTests */,
+			);
+			name = ProgressViewTests;
+			packageProductDependencies = (
+			);
+			productName = ProgressViewTests;
+			productReference = F070868F2D8B47BF00A2AB61 /* ProgressViewTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F0A8000A2D88AA3900A7708A /* PrimeiraTelaCadastroCursoUITests */ = {
+		F07086982D8B47BF00A2AB61 /* ProgressViewUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F0A8001C2D88AA3900A7708A /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCursoUITests" */;
+			buildConfigurationList = F07086AA2D8B47BF00A2AB61 /* Build configuration list for PBXNativeTarget "ProgressViewUITests" */;
 			buildPhases = (
-				F0A800072D88AA3900A7708A /* Sources */,
-				F0A800082D88AA3900A7708A /* Frameworks */,
-				F0A800092D88AA3900A7708A /* Resources */,
+				F07086952D8B47BF00A2AB61 /* Sources */,
+				F07086962D8B47BF00A2AB61 /* Frameworks */,
+				F07086972D8B47BF00A2AB61 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F0A8000D2D88AA3900A7708A /* PBXTargetDependency */,
+				F070869B2D8B47BF00A2AB61 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				F0A8000E2D88AA3900A7708A /* PrimeiraTelaCadastroCursoUITests */,
+				F070869C2D8B47BF00A2AB61 /* ProgressViewUITests */,
 			);
-			name = PrimeiraTelaCadastroCursoUITests;
+			name = ProgressViewUITests;
 			packageProductDependencies = (
 			);
-			productName = PrimeiraTelaCadastroCursoUITests;
-			productReference = F0A8000B2D88AA3900A7708A /* PrimeiraTelaCadastroCursoUITests.xctest */;
+			productName = ProgressViewUITests;
+			productReference = F07086992D8B47BF00A2AB61 /* ProgressViewUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
-		};
-		F0A8FFEA2D88AA3700A7708A /* PrimeiraTelaCadastroCurso */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F0A800142D88AA3900A7708A /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCurso" */;
-			buildPhases = (
-				F0A8FFE72D88AA3700A7708A /* Sources */,
-				F0A8FFE82D88AA3700A7708A /* Frameworks */,
-				F0A8FFE92D88AA3700A7708A /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				F0A8FFED2D88AA3700A7708A /* PrimeiraTelaCadastroCurso */,
-			);
-			name = PrimeiraTelaCadastroCurso;
-			packageProductDependencies = (
-			);
-			productName = PrimeiraTelaCadastroCurso;
-			productReference = F0A8FFEB2D88AA3700A7708A /* PrimeiraTelaCadastroCurso.app */;
-			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F0A8FFE32D88AA3700A7708A /* Project object */ = {
+		F07086712D8B47BC00A2AB61 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					F0A800002D88AA3900A7708A = {
+					F07086782D8B47BD00A2AB61 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = F0A8FFEA2D88AA3700A7708A;
 					};
-					F0A8000A2D88AA3900A7708A = {
+					F070868E2D8B47BF00A2AB61 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = F0A8FFEA2D88AA3700A7708A;
+						TestTargetID = F07086782D8B47BD00A2AB61;
 					};
-					F0A8FFEA2D88AA3700A7708A = {
+					F07086982D8B47BF00A2AB61 = {
 						CreatedOnToolsVersion = 16.2;
+						TestTargetID = F07086782D8B47BD00A2AB61;
 					};
 				};
 			};
-			buildConfigurationList = F0A8FFE62D88AA3700A7708A /* Build configuration list for PBXProject "PrimeiraTelaCadastroCurso" */;
+			buildConfigurationList = F07086742D8B47BD00A2AB61 /* Build configuration list for PBXProject "ProgressView" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = F0A8FFE22D88AA3700A7708A;
+			mainGroup = F07086702D8B47BC00A2AB61;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F0A8FFEC2D88AA3700A7708A /* Products */;
+			productRefGroup = F070867A2D8B47BD00A2AB61 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F0A8FFEA2D88AA3700A7708A /* PrimeiraTelaCadastroCurso */,
-				F0A800002D88AA3900A7708A /* PrimeiraTelaCadastroCursoTests */,
-				F0A8000A2D88AA3900A7708A /* PrimeiraTelaCadastroCursoUITests */,
+				F07086782D8B47BD00A2AB61 /* ProgressView */,
+				F070868E2D8B47BF00A2AB61 /* ProgressViewTests */,
+				F07086982D8B47BF00A2AB61 /* ProgressViewUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F0A800092D88AA3900A7708A /* Resources */ = {
+		F07086772D8B47BD00A2AB61 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0A8FFE92D88AA3700A7708A /* Resources */ = {
+		F070868D2D8B47BF00A2AB61 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0A8FFFF2D88AA3900A7708A /* Resources */ = {
+		F07086972D8B47BF00A2AB61 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F0A800072D88AA3900A7708A /* Sources */ = {
+		F07086752D8B47BD00A2AB61 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0A8FFE72D88AA3700A7708A /* Sources */ = {
+		F070868B2D8B47BF00A2AB61 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0A8FFFD2D88AA3900A7708A /* Sources */ = {
+		F07086952D8B47BF00A2AB61 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,20 +269,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		F0A800032D88AA3900A7708A /* PBXTargetDependency */ = {
+		F07086912D8B47BF00A2AB61 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F0A8FFEA2D88AA3700A7708A /* PrimeiraTelaCadastroCurso */;
-			targetProxy = F0A800022D88AA3900A7708A /* PBXContainerItemProxy */;
+			target = F07086782D8B47BD00A2AB61 /* ProgressView */;
+			targetProxy = F07086902D8B47BF00A2AB61 /* PBXContainerItemProxy */;
 		};
-		F0A8000D2D88AA3900A7708A /* PBXTargetDependency */ = {
+		F070869B2D8B47BF00A2AB61 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F0A8FFEA2D88AA3700A7708A /* PrimeiraTelaCadastroCurso */;
-			targetProxy = F0A8000C2D88AA3900A7708A /* PBXContainerItemProxy */;
+			target = F07086782D8B47BD00A2AB61 /* ProgressView */;
+			targetProxy = F070869A2D8B47BF00A2AB61 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		F0A800152D88AA3900A7708A /* Debug */ = {
+		F07086A32D8B47BF00A2AB61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -291,7 +291,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7SM9J5V6TJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = PrimeiraTelaCadastroCurso/Info.plist;
+				INFOPLIST_FILE = ProgressView/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -302,7 +302,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.PrimeiraTelaCadastroCurso;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.ProgressView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -310,7 +310,7 @@
 			};
 			name = Debug;
 		};
-		F0A800162D88AA3900A7708A /* Release */ = {
+		F07086A42D8B47BF00A2AB61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -319,7 +319,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7SM9J5V6TJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = PrimeiraTelaCadastroCurso/Info.plist;
+				INFOPLIST_FILE = ProgressView/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -330,7 +330,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.PrimeiraTelaCadastroCurso;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.ProgressView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -338,7 +338,7 @@
 			};
 			name = Release;
 		};
-		F0A800172D88AA3900A7708A /* Debug */ = {
+		F07086A52D8B47BF00A2AB61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -401,7 +401,7 @@
 			};
 			name = Debug;
 		};
-		F0A800182D88AA3900A7708A /* Release */ = {
+		F07086A62D8B47BF00A2AB61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -457,7 +457,7 @@
 			};
 			name = Release;
 		};
-		F0A8001A2D88AA3900A7708A /* Debug */ = {
+		F07086A82D8B47BF00A2AB61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -467,16 +467,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.PrimeiraTelaCadastroCursoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.ProgressViewTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PrimeiraTelaCadastroCurso.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PrimeiraTelaCadastroCurso";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProgressView.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ProgressView";
 			};
 			name = Debug;
 		};
-		F0A8001B2D88AA3900A7708A /* Release */ = {
+		F07086A92D8B47BF00A2AB61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -486,16 +486,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.PrimeiraTelaCadastroCursoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.ProgressViewTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PrimeiraTelaCadastroCurso.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PrimeiraTelaCadastroCurso";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProgressView.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ProgressView";
 			};
 			name = Release;
 		};
-		F0A8001D2D88AA3900A7708A /* Debug */ = {
+		F07086AB2D8B47BF00A2AB61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -503,16 +503,16 @@
 				DEVELOPMENT_TEAM = 7SM9J5V6TJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.PrimeiraTelaCadastroCursoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.ProgressViewUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = PrimeiraTelaCadastroCurso;
+				TEST_TARGET_NAME = ProgressView;
 			};
 			name = Debug;
 		};
-		F0A8001E2D88AA3900A7708A /* Release */ = {
+		F07086AC2D8B47BF00A2AB61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -520,55 +520,55 @@
 				DEVELOPMENT_TEAM = 7SM9J5V6TJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.PrimeiraTelaCadastroCursoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.ProgressViewUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = PrimeiraTelaCadastroCurso;
+				TEST_TARGET_NAME = ProgressView;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F0A800142D88AA3900A7708A /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCurso" */ = {
+		F07086742D8B47BD00A2AB61 /* Build configuration list for PBXProject "ProgressView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F0A800152D88AA3900A7708A /* Debug */,
-				F0A800162D88AA3900A7708A /* Release */,
+				F07086A52D8B47BF00A2AB61 /* Debug */,
+				F07086A62D8B47BF00A2AB61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F0A800192D88AA3900A7708A /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCursoTests" */ = {
+		F07086A22D8B47BF00A2AB61 /* Build configuration list for PBXNativeTarget "ProgressView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F0A8001A2D88AA3900A7708A /* Debug */,
-				F0A8001B2D88AA3900A7708A /* Release */,
+				F07086A32D8B47BF00A2AB61 /* Debug */,
+				F07086A42D8B47BF00A2AB61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F0A8001C2D88AA3900A7708A /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCursoUITests" */ = {
+		F07086A72D8B47BF00A2AB61 /* Build configuration list for PBXNativeTarget "ProgressViewTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F0A8001D2D88AA3900A7708A /* Debug */,
-				F0A8001E2D88AA3900A7708A /* Release */,
+				F07086A82D8B47BF00A2AB61 /* Debug */,
+				F07086A92D8B47BF00A2AB61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F0A8FFE62D88AA3700A7708A /* Build configuration list for PBXProject "PrimeiraTelaCadastroCurso" */ = {
+		F07086AA2D8B47BF00A2AB61 /* Build configuration list for PBXNativeTarget "ProgressViewUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F0A800172D88AA3900A7708A /* Debug */,
-				F0A800182D88AA3900A7708A /* Release */,
+				F07086AB2D8B47BF00A2AB61 /* Debug */,
+				F07086AC2D8B47BF00A2AB61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F0A8FFE32D88AA3700A7708A /* Project object */;
+	rootObject = F07086712D8B47BC00A2AB61 /* Project object */;
 }

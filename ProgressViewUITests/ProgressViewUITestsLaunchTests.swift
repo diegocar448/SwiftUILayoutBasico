@@ -1,13 +1,13 @@
 //
-//  PrimeiraTelaCadastroCursoUITestsLaunchTests.swift
-//  PrimeiraTelaCadastroCursoUITests
+//  ProgressViewUITestsLaunchTests.swift
+//  ProgressViewUITests
 //
-//  Created by Diego Cardoso on 17/03/25.
+//  Created by Diego Cardoso on 19/03/25.
 //
 
 import XCTest
 
-final class PrimeiraTelaCadastroCursoUITestsLaunchTests: XCTestCase {
+final class ProgressViewUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
