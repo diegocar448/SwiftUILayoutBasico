@@ -29,15 +29,36 @@ class ViewController: UIViewController {
         nameTextField.delegate = self
         emailTextField.delegate = self
         passwordTextField.delegate = self
+        
+        registerButton.isEnabled = false
+        registerButton.setTitleColor(.white.withAlphaComponent(0.4), for: .disabled)
+        registerButton.setTitleColor(.white, for: .normal)
+        
+        
     }
     
     @IBAction func tappedRegisterButton(_ sender: UIButton) {
+        print("funfou btn")
+    }
+    
+    func validateTextField(){
+        if(
+            nameTextField.text != "" &&
+            emailTextField.text != "" &&
+            passwordTextField.text != ""
+        ){
+            registerButton.isEnabled = true
+        }else{
+            registerButton.isEnabled = false
+        }
     }
 }
 
+
+// start fields
 extension ViewController: UITextFieldDelegate{
     
-    // primeiro metodo disparado
+    // taclado on
     func textFieldDidBeginEditing(_ textField: UITextField){
         print(#function)
         textField.layer.borderColor = UIColor.blue.cgColor
@@ -45,19 +66,19 @@ extension ViewController: UITextFieldDelegate{
         textField.layer.borderWidth = 1
     }
    
-    //teclado ao fechar
+    //teclado off
     func textFieldDidEndEditing(_ textField: UITextField) {
         print(#function)
         //focusOut
         textField.layer.borderWidth = 0
+        validateTextField()
 
     }
     
-    //teclado ao abrir
+    //click
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         print(#function)
         textField.resignFirstResponder()
-
         return true
     }
 }
