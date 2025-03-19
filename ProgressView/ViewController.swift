@@ -15,6 +15,15 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        //perc
+        progressView.progress = 0.7
+        progressView.tintColor = .green
+        progressView.trackTintColor = .lightGray.withAlphaComponent(0.6)
+        
+        let total = Progress(totalUnitCount: 100)
+        total.completedUnitCount = 70
+        progressView.setProgress(Float(total.fractionCompleted), animated: true)
+        
     }
 
 
