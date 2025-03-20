@@ -1,13 +1,13 @@
 //
-//  UISwitchUITests.swift
-//  UISwitchUITests
+//  UISliderUITests.swift
+//  UISliderUITests
 //
-//  Created by Diego Cardoso on 19/03/25.
+//  Created by Diego Cardoso on 20/03/25.
 //
 
 import XCTest
 
-final class UISwitchUITests: XCTestCase {
+final class UISliderUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

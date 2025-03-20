@@ -7,75 +7,75 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		F070870F2D8B4FAD00A2AB61 /* PBXContainerItemProxy */ = {
+		F070878E2D8C462D00A2AB61 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F07086F02D8B4FAB00A2AB61 /* Project object */;
+			containerPortal = F070876F2D8C462B00A2AB61 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F07086F72D8B4FAB00A2AB61;
-			remoteInfo = UISwitch;
+			remoteGlobalIDString = F07087762D8C462B00A2AB61;
+			remoteInfo = UISlider;
 		};
-		F07087192D8B4FAD00A2AB61 /* PBXContainerItemProxy */ = {
+		F07087982D8C462D00A2AB61 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F07086F02D8B4FAB00A2AB61 /* Project object */;
+			containerPortal = F070876F2D8C462B00A2AB61 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F07086F72D8B4FAB00A2AB61;
-			remoteInfo = UISwitch;
+			remoteGlobalIDString = F07087762D8C462B00A2AB61;
+			remoteInfo = UISlider;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F07086F82D8B4FAB00A2AB61 /* UISwitch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UISwitch.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F070870E2D8B4FAD00A2AB61 /* UISwitchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UISwitchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F07087182D8B4FAD00A2AB61 /* UISwitchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UISwitchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F07087772D8C462B00A2AB61 /* UISlider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UISlider.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F070878D2D8C462D00A2AB61 /* UISliderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UISliderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F07087972D8C462D00A2AB61 /* UISliderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UISliderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		F07087202D8B4FAE00A2AB61 /* Exceptions for "UISwitch" folder in "UISwitch" target */ = {
+		F070879F2D8C462D00A2AB61 /* Exceptions for "UISlider" folder in "UISlider" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = F07086F72D8B4FAB00A2AB61 /* UISwitch */;
+			target = F07087762D8C462B00A2AB61 /* UISlider */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F07086FA2D8B4FAB00A2AB61 /* UISwitch */ = {
+		F07087792D8C462B00A2AB61 /* UISlider */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				F07087202D8B4FAE00A2AB61 /* Exceptions for "UISwitch" folder in "UISwitch" target */,
+				F070879F2D8C462D00A2AB61 /* Exceptions for "UISlider" folder in "UISlider" target */,
 			);
-			path = UISwitch;
+			path = UISlider;
 			sourceTree = "<group>";
 		};
-		F07087112D8B4FAD00A2AB61 /* UISwitchTests */ = {
+		F07087902D8C462D00A2AB61 /* UISliderTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = UISwitchTests;
+			path = UISliderTests;
 			sourceTree = "<group>";
 		};
-		F070871B2D8B4FAD00A2AB61 /* UISwitchUITests */ = {
+		F070879A2D8C462D00A2AB61 /* UISliderUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = UISwitchUITests;
+			path = UISliderUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F07086F52D8B4FAB00A2AB61 /* Frameworks */ = {
+		F07087742D8C462B00A2AB61 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F070870B2D8B4FAD00A2AB61 /* Frameworks */ = {
+		F070878A2D8C462D00A2AB61 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F07087152D8B4FAD00A2AB61 /* Frameworks */ = {
+		F07087942D8C462D00A2AB61 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F07086EF2D8B4FAB00A2AB61 = {
+		F070876E2D8C462B00A2AB61 = {
 			isa = PBXGroup;
 			children = (
-				F07086FA2D8B4FAB00A2AB61 /* UISwitch */,
-				F07087112D8B4FAD00A2AB61 /* UISwitchTests */,
-				F070871B2D8B4FAD00A2AB61 /* UISwitchUITests */,
-				F07086F92D8B4FAB00A2AB61 /* Products */,
+				F07087792D8C462B00A2AB61 /* UISlider */,
+				F07087902D8C462D00A2AB61 /* UISliderTests */,
+				F070879A2D8C462D00A2AB61 /* UISliderUITests */,
+				F07087782D8C462B00A2AB61 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F07086F92D8B4FAB00A2AB61 /* Products */ = {
+		F07087782D8C462B00A2AB61 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F07086F82D8B4FAB00A2AB61 /* UISwitch.app */,
-				F070870E2D8B4FAD00A2AB61 /* UISwitchTests.xctest */,
-				F07087182D8B4FAD00A2AB61 /* UISwitchUITests.xctest */,
+				F07087772D8C462B00A2AB61 /* UISlider.app */,
+				F070878D2D8C462D00A2AB61 /* UISliderTests.xctest */,
+				F07087972D8C462D00A2AB61 /* UISliderUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F07086F72D8B4FAB00A2AB61 /* UISwitch */ = {
+		F07087762D8C462B00A2AB61 /* UISlider */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F07087212D8B4FAE00A2AB61 /* Build configuration list for PBXNativeTarget "UISwitch" */;
+			buildConfigurationList = F07087A02D8C462D00A2AB61 /* Build configuration list for PBXNativeTarget "UISlider" */;
 			buildPhases = (
-				F07086F42D8B4FAB00A2AB61 /* Sources */,
-				F07086F52D8B4FAB00A2AB61 /* Frameworks */,
-				F07086F62D8B4FAB00A2AB61 /* Resources */,
+				F07087732D8C462B00A2AB61 /* Sources */,
+				F07087742D8C462B00A2AB61 /* Frameworks */,
+				F07087752D8C462B00A2AB61 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F07086FA2D8B4FAB00A2AB61 /* UISwitch */,
+				F07087792D8C462B00A2AB61 /* UISlider */,
 			);
-			name = UISwitch;
+			name = UISlider;
 			packageProductDependencies = (
 			);
-			productName = UISwitch;
-			productReference = F07086F82D8B4FAB00A2AB61 /* UISwitch.app */;
+			productName = UISlider;
+			productReference = F07087772D8C462B00A2AB61 /* UISlider.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F070870D2D8B4FAD00A2AB61 /* UISwitchTests */ = {
+		F070878C2D8C462D00A2AB61 /* UISliderTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F07087262D8B4FAE00A2AB61 /* Build configuration list for PBXNativeTarget "UISwitchTests" */;
+			buildConfigurationList = F07087A52D8C462D00A2AB61 /* Build configuration list for PBXNativeTarget "UISliderTests" */;
 			buildPhases = (
-				F070870A2D8B4FAD00A2AB61 /* Sources */,
-				F070870B2D8B4FAD00A2AB61 /* Frameworks */,
-				F070870C2D8B4FAD00A2AB61 /* Resources */,
+				F07087892D8C462D00A2AB61 /* Sources */,
+				F070878A2D8C462D00A2AB61 /* Frameworks */,
+				F070878B2D8C462D00A2AB61 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F07087102D8B4FAD00A2AB61 /* PBXTargetDependency */,
+				F070878F2D8C462D00A2AB61 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				F07087112D8B4FAD00A2AB61 /* UISwitchTests */,
+				F07087902D8C462D00A2AB61 /* UISliderTests */,
 			);
-			name = UISwitchTests;
+			name = UISliderTests;
 			packageProductDependencies = (
 			);
-			productName = UISwitchTests;
-			productReference = F070870E2D8B4FAD00A2AB61 /* UISwitchTests.xctest */;
+			productName = UISliderTests;
+			productReference = F070878D2D8C462D00A2AB61 /* UISliderTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F07087172D8B4FAD00A2AB61 /* UISwitchUITests */ = {
+		F07087962D8C462D00A2AB61 /* UISliderUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F07087292D8B4FAE00A2AB61 /* Build configuration list for PBXNativeTarget "UISwitchUITests" */;
+			buildConfigurationList = F07087A82D8C462D00A2AB61 /* Build configuration list for PBXNativeTarget "UISliderUITests" */;
 			buildPhases = (
-				F07087142D8B4FAD00A2AB61 /* Sources */,
-				F07087152D8B4FAD00A2AB61 /* Frameworks */,
-				F07087162D8B4FAD00A2AB61 /* Resources */,
+				F07087932D8C462D00A2AB61 /* Sources */,
+				F07087942D8C462D00A2AB61 /* Frameworks */,
+				F07087952D8C462D00A2AB61 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F070871A2D8B4FAD00A2AB61 /* PBXTargetDependency */,
+				F07087992D8C462D00A2AB61 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				F070871B2D8B4FAD00A2AB61 /* UISwitchUITests */,
+				F070879A2D8C462D00A2AB61 /* UISliderUITests */,
 			);
-			name = UISwitchUITests;
+			name = UISliderUITests;
 			packageProductDependencies = (
 			);
-			productName = UISwitchUITests;
-			productReference = F07087182D8B4FAD00A2AB61 /* UISwitchUITests.xctest */;
+			productName = UISliderUITests;
+			productReference = F07087972D8C462D00A2AB61 /* UISliderUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F07086F02D8B4FAB00A2AB61 /* Project object */ = {
+		F070876F2D8C462B00A2AB61 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					F07086F72D8B4FAB00A2AB61 = {
+					F07087762D8C462B00A2AB61 = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					F070870D2D8B4FAD00A2AB61 = {
+					F070878C2D8C462D00A2AB61 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = F07086F72D8B4FAB00A2AB61;
+						TestTargetID = F07087762D8C462B00A2AB61;
 					};
-					F07087172D8B4FAD00A2AB61 = {
+					F07087962D8C462D00A2AB61 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = F07086F72D8B4FAB00A2AB61;
+						TestTargetID = F07087762D8C462B00A2AB61;
 					};
 				};
 			};
-			buildConfigurationList = F07086F32D8B4FAB00A2AB61 /* Build configuration list for PBXProject "UISwitch" */;
+			buildConfigurationList = F07087722D8C462B00A2AB61 /* Build configuration list for PBXProject "UISlider" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = F07086EF2D8B4FAB00A2AB61;
+			mainGroup = F070876E2D8C462B00A2AB61;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F07086F92D8B4FAB00A2AB61 /* Products */;
+			productRefGroup = F07087782D8C462B00A2AB61 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F07086F72D8B4FAB00A2AB61 /* UISwitch */,
-				F070870D2D8B4FAD00A2AB61 /* UISwitchTests */,
-				F07087172D8B4FAD00A2AB61 /* UISwitchUITests */,
+				F07087762D8C462B00A2AB61 /* UISlider */,
+				F070878C2D8C462D00A2AB61 /* UISliderTests */,
+				F07087962D8C462D00A2AB61 /* UISliderUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F07086F62D8B4FAB00A2AB61 /* Resources */ = {
+		F07087752D8C462B00A2AB61 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F070870C2D8B4FAD00A2AB61 /* Resources */ = {
+		F070878B2D8C462D00A2AB61 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F07087162D8B4FAD00A2AB61 /* Resources */ = {
+		F07087952D8C462D00A2AB61 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F07086F42D8B4FAB00A2AB61 /* Sources */ = {
+		F07087732D8C462B00A2AB61 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F070870A2D8B4FAD00A2AB61 /* Sources */ = {
+		F07087892D8C462D00A2AB61 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F07087142D8B4FAD00A2AB61 /* Sources */ = {
+		F07087932D8C462D00A2AB61 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,20 +269,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		F07087102D8B4FAD00A2AB61 /* PBXTargetDependency */ = {
+		F070878F2D8C462D00A2AB61 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F07086F72D8B4FAB00A2AB61 /* UISwitch */;
-			targetProxy = F070870F2D8B4FAD00A2AB61 /* PBXContainerItemProxy */;
+			target = F07087762D8C462B00A2AB61 /* UISlider */;
+			targetProxy = F070878E2D8C462D00A2AB61 /* PBXContainerItemProxy */;
 		};
-		F070871A2D8B4FAD00A2AB61 /* PBXTargetDependency */ = {
+		F07087992D8C462D00A2AB61 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F07086F72D8B4FAB00A2AB61 /* UISwitch */;
-			targetProxy = F07087192D8B4FAD00A2AB61 /* PBXContainerItemProxy */;
+			target = F07087762D8C462B00A2AB61 /* UISlider */;
+			targetProxy = F07087982D8C462D00A2AB61 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		F07087222D8B4FAE00A2AB61 /* Debug */ = {
+		F07087A12D8C462D00A2AB61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -291,7 +291,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7SM9J5V6TJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = UISwitch/Info.plist;
+				INFOPLIST_FILE = UISlider/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -302,7 +302,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.UISwitch;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.UISlider;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -310,7 +310,7 @@
 			};
 			name = Debug;
 		};
-		F07087232D8B4FAE00A2AB61 /* Release */ = {
+		F07087A22D8C462D00A2AB61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -319,7 +319,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7SM9J5V6TJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = UISwitch/Info.plist;
+				INFOPLIST_FILE = UISlider/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -330,7 +330,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.UISwitch;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.UISlider;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -338,7 +338,7 @@
 			};
 			name = Release;
 		};
-		F07087242D8B4FAE00A2AB61 /* Debug */ = {
+		F07087A32D8C462D00A2AB61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -401,7 +401,7 @@
 			};
 			name = Debug;
 		};
-		F07087252D8B4FAE00A2AB61 /* Release */ = {
+		F07087A42D8C462D00A2AB61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -457,7 +457,7 @@
 			};
 			name = Release;
 		};
-		F07087272D8B4FAE00A2AB61 /* Debug */ = {
+		F07087A62D8C462D00A2AB61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -467,16 +467,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.UISwitchTests;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.UISliderTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UISwitch.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UISwitch";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UISlider.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UISlider";
 			};
 			name = Debug;
 		};
-		F07087282D8B4FAE00A2AB61 /* Release */ = {
+		F07087A72D8C462D00A2AB61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -486,16 +486,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.UISwitchTests;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.UISliderTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UISwitch.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UISwitch";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UISlider.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UISlider";
 			};
 			name = Release;
 		};
-		F070872A2D8B4FAE00A2AB61 /* Debug */ = {
+		F07087A92D8C462D00A2AB61 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -503,16 +503,16 @@
 				DEVELOPMENT_TEAM = 7SM9J5V6TJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.UISwitchUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.UISliderUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = UISwitch;
+				TEST_TARGET_NAME = UISlider;
 			};
 			name = Debug;
 		};
-		F070872B2D8B4FAE00A2AB61 /* Release */ = {
+		F07087AA2D8C462D00A2AB61 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -520,55 +520,55 @@
 				DEVELOPMENT_TEAM = 7SM9J5V6TJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = diego.UISwitchUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = diego.UISliderUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = UISwitch;
+				TEST_TARGET_NAME = UISlider;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F07086F32D8B4FAB00A2AB61 /* Build configuration list for PBXProject "UISwitch" */ = {
+		F07087722D8C462B00A2AB61 /* Build configuration list for PBXProject "UISlider" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F07087242D8B4FAE00A2AB61 /* Debug */,
-				F07087252D8B4FAE00A2AB61 /* Release */,
+				F07087A32D8C462D00A2AB61 /* Debug */,
+				F07087A42D8C462D00A2AB61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F07087212D8B4FAE00A2AB61 /* Build configuration list for PBXNativeTarget "UISwitch" */ = {
+		F07087A02D8C462D00A2AB61 /* Build configuration list for PBXNativeTarget "UISlider" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F07087222D8B4FAE00A2AB61 /* Debug */,
-				F07087232D8B4FAE00A2AB61 /* Release */,
+				F07087A12D8C462D00A2AB61 /* Debug */,
+				F07087A22D8C462D00A2AB61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F07087262D8B4FAE00A2AB61 /* Build configuration list for PBXNativeTarget "UISwitchTests" */ = {
+		F07087A52D8C462D00A2AB61 /* Build configuration list for PBXNativeTarget "UISliderTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F07087272D8B4FAE00A2AB61 /* Debug */,
-				F07087282D8B4FAE00A2AB61 /* Release */,
+				F07087A62D8C462D00A2AB61 /* Debug */,
+				F07087A72D8C462D00A2AB61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F07087292D8B4FAE00A2AB61 /* Build configuration list for PBXNativeTarget "UISwitchUITests" */ = {
+		F07087A82D8C462D00A2AB61 /* Build configuration list for PBXNativeTarget "UISliderUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F070872A2D8B4FAE00A2AB61 /* Debug */,
-				F070872B2D8B4FAE00A2AB61 /* Release */,
+				F07087A92D8C462D00A2AB61 /* Debug */,
+				F07087AA2D8C462D00A2AB61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F07086F02D8B4FAB00A2AB61 /* Project object */;
+	rootObject = F070876F2D8C462B00A2AB61 /* Project object */;
 }

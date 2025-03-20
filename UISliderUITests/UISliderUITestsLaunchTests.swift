@@ -1,13 +1,13 @@
 //
-//  UISwitchUITestsLaunchTests.swift
-//  UISwitchUITests
+//  UISliderUITestsLaunchTests.swift
+//  UISliderUITests
 //
-//  Created by Diego Cardoso on 19/03/25.
+//  Created by Diego Cardoso on 20/03/25.
 //
 
 import XCTest
 
-final class UISwitchUITestsLaunchTests: XCTestCase {
+final class UISliderUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
