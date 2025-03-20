@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  UISlider
+//  UIImageView
 //
 //  Created by Diego Cardoso on 20/03/25.
 //
