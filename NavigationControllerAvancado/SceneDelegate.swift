@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  NavigationController
+//  NavigationControllerAvancado
 //
-//  Created by Diego Cardoso on 21/03/25.
+//  Created by Diego Cardoso on 26/03/25.
 //
 
 import UIKit

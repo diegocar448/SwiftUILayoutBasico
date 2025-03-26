@@ -1,13 +1,13 @@
 //
-//  NavigationControllerUITestsLaunchTests.swift
-//  NavigationControllerUITests
+//  NavigationControllerAvancadoUITestsLaunchTests.swift
+//  NavigationControllerAvancadoUITests
 //
-//  Created by Diego Cardoso on 21/03/25.
+//  Created by Diego Cardoso on 26/03/25.
 //
 
 import XCTest
 
-final class NavigationControllerUITestsLaunchTests: XCTestCase {
+final class NavigationControllerAvancadoUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
